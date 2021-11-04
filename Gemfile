@@ -49,7 +49,7 @@ group :development, :test do
   # Vrificaçoes de erros
   gem 'better_errors'
   # Rails ERD generates diagrams using
-gem "rails-erd"
+gem 'rails-erd'
 end
 
 group :development do
